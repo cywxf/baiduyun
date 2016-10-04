@@ -1,0 +1,68 @@
+//http://yun.baidu.com/pcloud/friend/getfollowlist?query_uk=1327787586&limit=25&start=0
+/*
+
+{
+"uk" : 1953571457,
+"uname" : "V*\u7b71\u73a5",
+"avatar_url" : "http:\/\/himg.bdimg.com\/sys\/portrait\/item\/6c745e75.jpg",
+"intro" : "",
+"user_type" : "3",
+"is_vip" : 0,
+"follow_count" : 1,
+"fans_count" : 57,
+"pubshare_count" : 70,
+"album_count" : 0,
+"flg" : "0",
+"create_timestamp" : 0,
+"update_timestamp" : 0
+}
+
+*/
+
+
+{
+	"errno" : 0,
+	"request_id" : 4116026115,
+	"total_count" : 143,
+	"follow_list" : [{
+			"type" : -1,
+			"follow_uname" : "V*\u7b71\u73a5",	
+			"avatar_url" : "http:\/\/himg.bdimg.com\/sys\/portrait\/item\/6c745e75.jpg",
+			"intro" : "",
+			"user_type" : "3",
+			"is_vip" : 0,
+			"follow_count" : 1,
+			"fans_count" : 57,
+			"follow_time" : 1473950813,
+			"pubshare_count" : 70,
+			"follow_uk" : 1953571457,
+			"album_count" : 0
+		}, {
+			"type" : -1,
+			"follow_uname" : "\u535a**\u8c6a\u732a",
+			"avatar_url" : "http:\/\/himg.bdimg.com\/sys\/portrait\/item\/b80ee114.jpg",
+			"intro" : "",
+			"user_type" : "0",
+			"is_vip" : 0,
+			"follow_count" : 0,
+			"fans_count" : 644,
+			"follow_time" : 1473602752,
+			"pubshare_count" : 26,
+			"follow_uk" : 235992638,
+			"album_count" : 0
+		}, {
+			"type" : -1,
+			"follow_uname" : "\u5c0f**\u6708\u4eae",
+			"avatar_url" : "http:\/\/himg.bdimg.com\/sys\/portrait\/item\/86c93321.jpg",
+			"intro" : "",
+			"user_type" : "0",
+			"is_vip" : 0,
+			"follow_count" : 1,
+			"fans_count" : 16,
+			"follow_time" : 1472396779,
+			"pubshare_count" : 1,
+			"follow_uk" : 3374696684,
+			"album_count" : 0
+		}, 
+	]
+}

@@ -1,0 +1,58 @@
+db.createCollection("mycol", { capped : true, autoIndexID : true, size : 6142800, max : 10000 } )
+
+user_queue
+{
+"uk" : -1,
+"create_timestamp" : 0,
+"update_timestamp" : 0
+}
+
+user
+{
+"uk" : 1953571457,
+"uname" : "V*\u7b71\u73a5",
+"avatar_url" : "http:\/\/himg.bdimg.com\/sys\/portrait\/item\/6c745e75.jpg",
+"intro" : "",
+"user_type" : "3",
+"is_vip" : 0,
+"follow_count" : 1,
+"fans_count" : 57,
+"pubshare_count" : 70,
+"album_count" : 0,
+"flg" : "0",
+"create_timestamp" : 0,
+"update_timestamp" : 0
+}
+
+follow_fan
+{
+"uk" : -1,
+"follow_fan_type" : 0,
+"follow_fan_uk" : 0,
+"flg" : "0",
+"create_timestamp" : 0,
+"update_timestamp" : 0
+}
+
+pubshare
+{
+"uk" : -1,
+"share_name" : "",
+"share_url" : "",
+"share_time": "",
+"flg" : "0",
+"create_timestamp" : 0,
+"update_timestamp" : 0
+}
+
+<li>
+<a class="list-item" href="/wap/link?uk=2214641459&amp;third=0&amp;shareid=2654846525">
+<i class="file-icon ipdf">
+
+</i>
+<div class="content">
+<h3><span class="fn-main" style="max-width:85%">Manning.Go.in.Practice.2016.8</span><span class="fn-suffix">.pdf</span></h3>
+<div class="list-content">2016-09-06 08:07:53</div>
+</div>
+</a>
+</li>
